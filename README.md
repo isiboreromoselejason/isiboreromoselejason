@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=isiboreromoselejason&label=Profile%20views&color=0e75b6&style=flat" alt="isiboreromoselejason" /> </p>
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning **Web Development**at Humber College
 
 - 📫 How to reach me **isiboreromoselejason@gmail.com**
 
